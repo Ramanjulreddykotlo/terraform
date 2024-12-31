@@ -7,3 +7,5 @@ crash.log
 
 # Ignore Terraform provider binaries
 .terraform/
+.terraform.lock.hcl
+.terraform.lock
